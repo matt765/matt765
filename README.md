@@ -2,6 +2,7 @@
 <h1>Hi there, I'm Matthew <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h2>
 I'm 29 years old, passionate self-taught <strong>front-end developer</strong> from Poland. I graduated from dental school few years ago. Currently I'm working on learning to use React efficiently and expanding my UI design skills. I'm open to collaborate on interesting projects. 
 
+Besides JS Playground, all projects are available  live on GitHub Pages
 
 ## Favorite Tech
 <table>
@@ -62,8 +63,6 @@ React project designed to be an alternative to default starting page in browser
 Live: https://matt765.github.io/react-daily-dashboard/
 
 <p align="center"><img src="./img/daily.png"  alt="React" style="margin:auto;"/></p>
-
-Besides JS Playground, all projects are live on GitHub Pages
 
 <h4>11 apps</h4>
 
