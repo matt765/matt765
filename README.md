@@ -57,9 +57,9 @@ Besides JS Playground, all projects are available  live on GitHub Pages
   
 ## Projects that might interest you 
 
-<h4>Daily Dashboard app</h4>
+<h4>Daily Dashboard </h4>
 
-React project designed to be an alternative to default starting page in browser
+React app designed to be an alternative to default starting page in browser
 
 Live: https://matt765.github.io/react-daily-dashboard/
 
