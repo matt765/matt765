@@ -1,6 +1,11 @@
 
-<h2>Hi there, I'm Matt <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h2>
-Hi, I'm Matthew, passionate self-taught front-end web developer from India. 
+<h2>Hi there, I'm Matthew <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h2>
+I'm 29 years old, passionate self-taught front-end web developer from Poland. I'm open to collaborate on interesting projects.
+
+<h2 align="left" id="macropower-tech">Favorite Tech</h2>
+Tools, languages, and libraries and other things that I like to work with.
+
+. 
 
 <!--
 **matt765/matt765** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
