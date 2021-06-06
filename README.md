@@ -58,7 +58,7 @@ I'm 29 years old, passionate self-taught <strong>front-end developer</strong> fr
 Daily Dashboard app
 
 React project designed to be an alternative to default starting page in browser
- <img src="./img/dashboard.png" width="48" height="48" alt="React" />
+ <img src="./img/dashboard.png"  alt="React" />
 
 <!--
 **matt765/matt765** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
