@@ -53,7 +53,7 @@ I'm 29 years old, passionate self-taught <strong>front-end developer</strong> fr
   </tr>
   </table>
   
-## Projects that might interest you
+## Projects that might interest you - all available through GitHub Pages!
 
 <h4>Daily Dashboard app</h4>
 
@@ -75,9 +75,9 @@ Live here https://matt765.github.io/11-javascript-apps/
 
 Fairytale Studio https://matt765.github.io/photography-website/
 
-Dental Clinic https://github.com/matt765/dental-website
+Dental Clinic https://matt765.github.io/dental-website/
 
-Ray development https://github.com/matt765/real-estate-website
+Ray development https://matt765.github.io/real-estate-website/index.html
 
 <!--
 **matt765/matt765** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
