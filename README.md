@@ -59,7 +59,7 @@ I'm 29 years old, passionate self-taught <strong>front-end developer</strong> fr
 
 React project designed to be an alternative to default starting page in browser
 
- <center><img src="./img/daily.png"  alt="React" style="margin: auto;/></center>
+ <center><img src="./img/daily.png"  alt="React" style="margin:auto;"/></center>
 
 <!--
 **matt765/matt765** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
