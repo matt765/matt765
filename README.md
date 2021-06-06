@@ -32,13 +32,13 @@ I'm 29 years old, passionate self-taught <strong>front-end developer</strong> fr
     </td>
      <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/typescript.svg" width="48" height="48" alt="TypeScript" />
+        <img src="./img/ts.svg" width="48" height="48" alt="TypeScript" />
       </a>
       <br>TypeScript
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/javascript.svg" width="48" height="48" alt="JavaScript" />
+        <img src="./img/js.svg" width="48" height="48" alt="JavaScript" />
       </a>
       <br>JavaScript
     </td>
