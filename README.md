@@ -10,6 +10,30 @@ I'm 29 years old, passionate self-taught <strong>front-end developer</strong> fr
       <a href="#macropower-tech">
         <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
       </a>
+      <br>HTML5
+    </td>
+       <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>CSS
+    </td>
+      <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/sass-original.svg" width="48" height="48" alt="Sass" />
+      </a>
+      <br>Sass
+    </td>
+     <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/bootstrap-plain.svg" width="48" height="48" alt="Bootstrap" />
+      </a>
+      <br>Bootstrap
+    </td>
+     <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+      </a>
       <br>TypeScript
     </td>
     <td align="center" width="96">
@@ -24,18 +48,8 @@ I'm 29 years old, passionate self-taught <strong>front-end developer</strong> fr
       </a>
       <br>React
     </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/bootstrap-plain.svg" width="48" height="48" alt="Bootstrap" />
-      </a>
-      <br>Bootstrap
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/sass-original.svg" width="48" height="48" alt="Sass" />
-      </a>
-      <br>Sass
-    </td>
+   
+  
   </tr>
   </table>
 
