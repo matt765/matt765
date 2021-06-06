@@ -3,7 +3,7 @@
 I'm 29 years old, passionate self-taught <strong>front-end developer</strong> from Poland. I graduated from dental school few years ago. Currently I'm working on learning to use React efficiently and expanding my UI design skills. I'm open to collaborate on interesting projects. 
 
 
-Besides JS Playground, all projects are available  live on GitHub Pages
+Besides JS Playground, <strong>all projects are available  live on GitHub Pages</strong>
 
 ## Favorite Tech
 <table>
