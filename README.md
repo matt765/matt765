@@ -7,9 +7,7 @@ I'm 29 years old, passionate self-taught <strong>front-end developer</strong> fr
 
 <table>
   <tr>
- 
-   
-    <td align="center" width="96">
+     <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
       </a>
@@ -40,8 +38,7 @@ I'm 29 years old, passionate self-taught <strong>front-end developer</strong> fr
       <br>Sass
     </td>
   </tr>
-  
-</table>
+  </table>
 
 . 
 
