@@ -13,37 +13,37 @@ I'm 29 years old, passionate self-taught <strong>front-end developer</strong> fr
       <br>HTML5
     </td>
        <td align="center" width="96">
-      <a href="#macropower-tech">
+      <a href="">
         <img src="./img/css3.png" width="48" height="48" alt="TypeScript" />
       </a>
       <br>CSS3
     </td>
       <td align="center" width="96">
-      <a href="#macropower-tech">
+      <a href="">
         <img src="./img/sass.svg" width="48" height="48" alt="Sass" />
       </a>
       <br>Sass
     </td>
      <td align="center" width="96">
-      <a href="#macropower-tech">
+      <a href="">
         <img src="./img/bootstrap.svg" width="48" height="48" alt="Bootstrap" />
       </a>
       <br>Bootstrap
     </td>
      <td align="center" width="96">
-      <a href="#macropower-tech">
+      <a href="">
         <img src="./img/ts.svg" width="48" height="48" alt="TypeScript" />
       </a>
       <br>TypeScript
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
+      <a href="">
         <img src="./img/js.svg" width="48" height="48" alt="JavaScript" />
       </a>
       <br>JavaScript
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech" >
+      <a href="" >
         <img src="./img/react.svg" width="48" height="48" alt="React" />
       </a>
       <br>React
