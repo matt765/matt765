@@ -1,6 +1,6 @@
 
 <h2>Hi there, I'm Matthew <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h2>
-I'm 29 years old, passionate self-taught **[front-end web developer]** from Poland. I graduated from dental school few years ago. Currently I'm working on learning to use React efficiently and expanding my UI design skills. I'm open to collaborate on interesting projects. 
+I'm 29 years old, passionate self-taught <h4>front-end web developer</h4> from Poland. I graduated from dental school few years ago. Currently I'm working on learning to use React efficiently and expanding my UI design skills. I'm open to collaborate on interesting projects. 
 
 <hr>
 <h3 align="left" id="macropower-tech">Favorite Tech</h3>
