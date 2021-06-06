@@ -7,16 +7,16 @@ I'm 29 years old, passionate self-taught <strong>front-end developer</strong> fr
 <table>
   <tr>
      <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+      <a href="">
+        <img src="./img/html5.png" width="48" height="48" alt="TypeScript" />
       </a>
       <br>HTML5
     </td>
        <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+        <img src="./img/css3.png" width="48" height="48" alt="TypeScript" />
       </a>
-      <br>CSS
+      <br>CSS3
     </td>
       <td align="center" width="96">
       <a href="#macropower-tech">
