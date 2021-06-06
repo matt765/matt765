@@ -55,7 +55,7 @@ Besides JS Playground, all projects are available  live on GitHub Pages
   </tr>
   </table>
   
-## Projects that might interest you - all available through GitHub Pages!
+## Projects that might interest you 
 
 <h4>Daily Dashboard app</h4>
 
