@@ -55,13 +55,22 @@ I'm 29 years old, passionate self-taught <strong>front-end developer</strong> fr
   
 ## Projects that might interest you
 
-<h5>Daily Dashboard app</h5>
+<h4>Daily Dashboard app</h4>
 
 React project designed to be an alternative to default starting page in browser
 
 Live: https://matt765.github.io/react-daily-dashboard/
 
 <p align="center"><img src="./img/daily.png"  alt="React" style="margin:auto;"/></p>
+
+Besides JS Playground, all projects are live on GitHub Pages
+
+<h4>11 apps</h4>
+
+Vanilla JS project with 11 fairly simple apps using external APIs, JS libraries and DOM manipulation
+Live here https://matt765.github.io/11-javascript-apps/
+
+<h4>Complete websites</h4>
 
 <!--
 **matt765/matt765** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
