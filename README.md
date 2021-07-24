@@ -53,7 +53,21 @@ Besides JS Playground, all public projects are available  live on<strong> GitHub
   </tr>
   </table>
   
+<br>
+
 ## Projects that might interest you 
+
+
+<h4>ChatApp</h4>
+
+Fully functional, responsive chat app, created in React. 
+
+
+<a href="https://matt765.github.io/react-chat-app">Live link</a> | <a href="https://github.com/matt765/react-chat-app">Repository</a>
+
+
+https://user-images.githubusercontent.com/63603595/126877482-82bf8d5d-4902-4228-8ab9-e617dbc26075.mp4
+
 
 <h4>Daily Dashboard </h4>
 
