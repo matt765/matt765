@@ -30,12 +30,7 @@ Besides JS Playground, all public projects are available  live on<strong> GitHub
       </a>
       <br>Bootstrap
     </td>
-     <td align="center" width="96">
-      <a href="">
-        <img src="./img/ts.svg" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>TypeScript
-    </td>
+    
     <td align="center" width="96">
       <a href="">
         <img src="./img/js.svg" width="48" height="48" alt="JavaScript" />
