@@ -67,7 +67,7 @@ https://user-images.githubusercontent.com/63603595/126877482-82bf8d5d-4902-4228-
 
 React app designed to be an alternative to default starting page in browser
 
-Live: https://matt765.github.io/react-daily-dashboard/
+<a href="https://matt765.github.io/react-daily-dashboard/">Live link</a> | <a href="https://github.com/matt765/react-daily-dashboard">Repository</a>
 
 <p align="center"><img src="./img/dailydashboard.png"  alt="React"  width="686" height="427"/></p>
 
