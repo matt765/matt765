@@ -75,16 +75,18 @@ React app designed to be an alternative to default starting page in browser
 
 Vanilla JS project with 11 fairly simple apps using external APIs, JS libraries and DOM manipulation.
 
-Live here https://matt765.github.io/11-javascript-apps/
+<a href="https://matt765.github.io/11-javascript-apps/">Live link</a> | <a href="https://github.com/matt765/11-javascript-apps">Repository</a>
 
 <h4>Complete websites</h4>
 
-Fairytale Studio https://matt765.github.io/photography-website/
+Fairytale Studio 
+<a href="https://matt765.github.io/photography-website/">Live link</a> | <a href="https://github.com/matt765/photography-website">Repository</a>
 
-Dental Clinic https://matt765.github.io/dental-website/
+Dental Clinic 
+<a href="https://matt765.github.io/dental-website/">Live link</a> | <a href="https://github.com/matt765/dental-website">Repository</a>
 
-Ray development https://matt765.github.io/real-estate-website/index.html
-
+Ray development
+<a href="https://matt765.github.io/real-estate-website/index.html">Live link</a> | <a href="https://github.com/matt765/real-estate-website">Repository</a>
 <!--
 **matt765/matt765** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
