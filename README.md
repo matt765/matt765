@@ -1,6 +1,6 @@
 
 <h1>Hi there, I'm Matthew <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h2>
-I'm 29 years old, passionate self-taught <strong>front-end developer</strong> from Poland.  Currently gaining experience in implementing complex web apps in React ecosystem and expanding UI design skills.  I'm open to collaborate on interesting projects. I graduated from dental school few years ago.  <br>
+Passionate self-taught 29 years old<strong>front-end developer</strong> from Poland.  Currently gaining experience in implementing complex web apps in React ecosystem and expanding UI design skills.  I'm open to collaborate on interesting projects. I graduated from dental school few years ago.  <br>
 Most of public projects is available  live on<strong> GitHub Pages</strong>
 
 ## Favorite Tech
