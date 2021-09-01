@@ -73,7 +73,7 @@ React app designed to be an alternative to default starting page in browser
 
 <h4>11 apps</h4>
 
-Vanilla JS project with 11 fairly simple apps using external APIs, JS libraries and DOM manipulation.
+Vanilla JS project with 11  apps using external APIs, JS libraries and DOM manipulation.
 
 <a href="https://matt765.github.io/11-javascript-apps/">Live link</a> | <a href="https://github.com/matt765/11-javascript-apps">Repository</a>
 
