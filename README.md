@@ -1,6 +1,6 @@
 
 <h1>Hi there, I'm Matthew <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h2>
-Passionate self-taught  <strong>front-end developer</strong> from Poland.  Currently gaining experience in writing complex web apps in React ecosystem and expanding UI design skills.   <br>
+<strong>Front-end developer</strong> from Poland,  currently gaining experience in writing complex web apps in React ecosystem and expanding UI design skills.   <br>
 Most of public projects are available  live on<strong> GitHub Pages</strong>
 
 ## Favorite Tech
