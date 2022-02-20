@@ -7,15 +7,15 @@ Most of public projects are available  live on<strong> GitHub Pages</strong>
 <table>
   <tr>
      <td align="center" width="96">
-      <a href="">
+      
         <img src="./img/html5.png" width="48" height="48" alt="TypeScript" />
-      </a>
+    
       <br>HTML5
     </td>
        <td align="center" width="96">
-      <a href="">
+    
         <img src="./img/css3.png" width="48" height="48" alt="TypeScript" />
-      </a>
+    
       <br>CSS3
     </td>
       <td align="center" width="96">
