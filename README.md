@@ -1,51 +1,9 @@
 
 <h1>Hi there, I'm Matthew <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h2>
-<strong>Front-end developer</strong> from Poland,  currently working with React & TypeScript applications.   <br>
-Most of public projects are available  live on<strong> GitHub Pages</strong>
+<strong>Front-end developer</strong> from Poland,  currently working with React & TypeScript applications.   <br> <br>
 
-## Favorite Tech
-<table>
-  <tr>
-     <td align="center" width="96">
-      <a href="">
-        <img src="./img/html5.png" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>HTML5
-    </td>
-       <td align="center" width="96">
-      <a href="">
-        <img src="./img/css3.png" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>CSS3
-    </td>
-      <td align="center" width="96">
-      <a href="">
-        <img src="./img/sass.svg" width="48" height="48" alt="Sass" />
-      </a>
-      <br>Sass
-    </td>
-     <td align="center" width="96">
-      <a href="">
-        <img src="./img/bootstrap.svg" width="48" height="48" alt="Bootstrap" />
-      </a>
-      <br>Bootstrap
-    </td>
-     <td align="center" width="96">
-      <a href="">
-        <img src="./img/js.svg" width="48" height="48" alt="JavaScript" />
-      </a>
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <a href="" >
-        <img src="./img/react.svg" width="48" height="48" alt="React" />
-      </a>
-      <br>React
-    </td>
-   
-  
-  </tr>
-  </table>
+Tech stack: HTML, CSS, JavaScript, TypeScript, React, Mobx, Next.js <br>
+Styling libraries & tools I'm familiar with: Styled Components, Material UI, Chakra UI, Bootstrap, Tailwind, SASS
   
 <br>
 
