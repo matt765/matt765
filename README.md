@@ -1,6 +1,6 @@
 
 <h1>Hi there, I'm Matthew <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h2>
-<strong>Front-end developer</strong> from Poland,  currently working mostly with React & TypeScript applications.   <br>
+<strong>Front-end developer</strong> from Poland,  currently working with React & TypeScript applications.   <br>
 Most of public projects are available  live on<strong> GitHub Pages</strong>
 
 ## Favorite Tech
