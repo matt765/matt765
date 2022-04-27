@@ -4,8 +4,6 @@
 
 Tech stack: HTML, CSS, JavaScript, TypeScript, React, Mobx, Next.js <br>
 Styling libraries & tools I'm familiar with: Styled Components, Material UI, Chakra UI, Bootstrap, Tailwind, SASS
-  
-<br>
 
 ## Projects that might interest you 
 
