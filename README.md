@@ -15,10 +15,6 @@ Fully functional, responsive chat app, created in React.
 
 <a href="https://matt765.github.io/react-chat-app">Live link</a> | <a href="https://github.com/matt765/react-chat-app">Repository</a>
 
-
-https://user-images.githubusercontent.com/63603595/126877482-82bf8d5d-4902-4228-8ab9-e617dbc26075.mp4
-
-
 <h4>Daily Dashboard </h4>
 
 React app designed to be an alternative to default starting page in browser
