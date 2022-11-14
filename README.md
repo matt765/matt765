@@ -2,8 +2,8 @@
 <h1>Hi there, I'm Matthew </h2>
 <strong>Front-end developer</strong> from Poland,  currently working with React & TypeScript applications.   <br> <br>
 
-Tech stack: HTML, CSS, JavaScript, TypeScript, React, Mobx, Next.js <br>
-Styling libraries & tools I'm familiar with: Styled Components, Material UI, Chakra UI, Bootstrap, Tailwind, SASS
+Tech stack: HTML, CSS, JavaScript, TypeScript, React, Redux, Next.js <br>
+Styling libraries I'm familiar with: Styled Components, Material UI, Chakra UI, Bootstrap, Tailwind, SCSS
 
 ## Projects that might interest you 
 
@@ -21,15 +21,19 @@ React app designed to be an alternative to default starting page in browser
 
 <a href="https://matt765.github.io/react-daily-dashboard/">Live link</a> | <a href="https://github.com/matt765/react-daily-dashboard">Repository</a>
 
-<p align="center"><img src="./img/dailydashboard.png"  alt="React"  width="686" height="427"/></p>
+<h4>Tailcast</h4>
 
-<h4>11 apps</h4>
+Dark themed website template built on AstroJS, designed for saas/startup business.
 
-Vanilla JS project with 11  apps using external APIs, JS libraries and DOM manipulation.
+<a href="https://tailcastsite.netlify.app/">Live link</a> | <a href="https://github.com/matt765/Tailcast">Repository</a>
 
+
+
+## Legacy projects
+Old applications that still work but I didn't maintain them for a long time.
+
+11 apps
 <a href="https://matt765.github.io/11-javascript-apps/">Live link</a> | <a href="https://github.com/matt765/11-javascript-apps">Repository</a>
-
-<h4>Complete websites</h4>
 
 Fairytale Studio 
 <a href="https://matt765.github.io/photography-website/">Live link</a> | <a href="https://github.com/matt765/photography-website">Repository</a>
