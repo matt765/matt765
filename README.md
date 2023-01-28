@@ -30,7 +30,7 @@ Dark themed website template built on AstroJS, designed for saas/startup busines
 
 
 ## Older projects
-Wbsites that still work but were not maintained for some time and need refactoring.
+Websites that still work but were not maintained for some time and need refactoring.
 
 11 apps
 <a href="https://matt765.github.io/11-javascript-apps/">Live link</a> | <a href="https://github.com/matt765/11-javascript-apps">Repository</a>
