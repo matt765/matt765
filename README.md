@@ -25,11 +25,6 @@ My main portfolio application, written in ReactJS and Chakra UI
 
 <a href="https://matt765-portfolio.vercel.app/">Live link</a> | <a href="https://github.com/matt765/portfolio">Repository</a>
 
-<h4>4 websites</h4>
-
-Simple NextJS application I made to display websites that I've created.
-
-<a href="https://4-websites.vercel.app/">Live link</a> | <a href="https://github.com/matt765/4-websites">Repository</a>
 
 ## Older projects
 Websites and applications that still work but were not maintained for some time and need code refactoring.
