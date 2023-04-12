@@ -17,7 +17,7 @@ React app designed to be an alternative to default starting page in browser
 
 Dark themed website template built on AstroJS, designed for SaaS business.
 
-<a href="https://tailcastsite.netlify.app/">Live link</a> | <a href="https://github.com/matt765/Tailcast">Repository</a>
+<a href="https://tailcast.vercel.app/">Live link</a> | <a href="https://github.com/matt765/Tailcast">Repository</a>
 
 <h4>Portfolio</h4>
 
