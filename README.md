@@ -2,7 +2,7 @@
 <h1>Hi there, I'm Matthew </h2>
 <strong>Front-end developer</strong> from Poland,  currently working with React & TypeScript applications.   <br> <br>
 
-Tech stack: HTML, CSS, JavaScript, TypeScript, React, Redux, NextJS, AstroJS, Strapi, GraphQL, Webflow, Storybook <br>
+Tech stack: HTML, CSS, JavaScript, TypeScript, React, Redux, NextJS, Zustand, React Query, AstroJS, Strapi, GraphQL, Webflow, Storybook <br>
 Styling libraries I'm familiar with: Styled Components, Material UI, Chakra UI, Tailwind, SCSS
 
 ## Projects that might interest you 
