@@ -21,7 +21,7 @@ My main portfolio application, written in ReactJS and Chakra UI
 
 <h4>Tailcast</h4>
 
-Dark themed website template built on AstroJS, designed for SaaS business.
+Dark themed website template built on AstroJS and Tailwind, designed for SaaS business.
 
 <a href="https://tailcast.vercel.app/">Live link</a> | <a href="https://github.com/matt765/Tailcast">Repository</a>
 
