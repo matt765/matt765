@@ -7,11 +7,17 @@ Styling libraries I'm familiar with: Styled Components, Material UI, Chakra UI, 
 
 ## Projects that might interest you 
 
-<h4>Daily Dashboard </h4>
+<h4>Daydash.app</h4>
 
-React app designed to be an alternative to default starting page in browser
+React application designed to be an alternative to default starting page in browser
 
-<a href="https://matt765.github.io/react-daily-dashboard/">Live link</a> | <a href="https://github.com/matt765/react-daily-dashboard">Repository</a>
+<a href="https://daydash.app/">Live link</a> | <a href="https://github.com/matt765/daydash">Repository</a>
+
+<h4>Portfolio</h4>
+
+My main portfolio application, written in ReactJS and Chakra UI
+
+<a href="https://matt765-portfolio.vercel.app/">Live link</a> | <a href="https://github.com/matt765/portfolio">Repository</a>
 
 <h4>Tailcast</h4>
 
@@ -19,11 +25,11 @@ Dark themed website template built on AstroJS, designed for SaaS business.
 
 <a href="https://tailcast.vercel.app/">Live link</a> | <a href="https://github.com/matt765/Tailcast">Repository</a>
 
-<h4>Portfolio</h4>
+<h4>4 websites</h4>
 
-My main portfolio application, written in ReactJS and Chakra UI
+Few more static websites of mine, combined along with Tailcast into simple showcase application
 
-<a href="https://matt765-portfolio.vercel.app/">Live link</a> | <a href="https://github.com/matt765/portfolio">Repository</a>
+<a href="https://4-websites.vercel.app/">Live link</a> | <a href="https://github.com/matt765/4-websites">Repository</a>
 
 
 ## Older projects
