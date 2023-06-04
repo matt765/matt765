@@ -31,6 +31,11 @@ Few more static websites of mine, combined along with Tailcast into simple showc
 
 <a href="https://4-websites.vercel.app/">Live link</a> | <a href="https://github.com/matt765/4-websites">Repository</a>
 
+<h4>TypeScript Apps</h4>
+
+Open source collection of small applications written in ReactJS and TypeScript.
+
+<a href="https://typescriptapps.netlify.app/">Live link</a> | <a href="https://github.com/matt765/typescript-apps">Repository</a>
 
 ## Older projects
 Websites and applications that still work but were not maintained for some time and need code refactoring.
