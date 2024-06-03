@@ -2,10 +2,16 @@
 <h1>Hi there, I'm Matthew </h2>
 <strong>Front-end developer</strong> from Poland,  currently working with React & TypeScript applications.   <br> <br>
 
-Tech stack: HTML, CSS, JavaScript, TypeScript, React, Redux, NextJS, Zustand, React Query, AstroJS, Strapi, GraphQL, Webflow, Storybook <br>
+Tech stack: HTML, CSS, JavaScript, TypeScript, React, Redux, NextJS, Zustand, AstroJS, Strapi, GraphQL, Webflow, Storybook <br>
 Styling libraries I'm familiar with: Styled Components, Material UI, Chakra UI, Tailwind, SCSS
 
 ## Projects that might interest you 
+
+<h4>Spireflow</h4>
+
+Open source analytic dashboard that resembles real-world e-commerce platforms
+
+<a href="https://spireflow.vercel.app">Live link</a> | <a href="https://github.com/matt765/spireflow">Repository</a>
 
 <h4>Daydash.app</h4>
 
@@ -13,23 +19,11 @@ React application designed to be an alternative to default starting page in brow
 
 <a href="https://daydash.app/">Live link</a> | <a href="https://github.com/matt765/daydash">Repository</a>
 
-<h4>Portfolio</h4>
-
-My main portfolio application, written in ReactJS and Chakra UI
-
-<a href="https://matt765-portfolio.vercel.app/">Live link</a> | <a href="https://github.com/matt765/portfolio">Repository</a>
-
 <h4>Tailcast</h4>
 
 Dark themed website template built on AstroJS and Tailwind, designed for SaaS business.
 
 <a href="https://tailcast.vercel.app/">Live link</a> | <a href="https://github.com/matt765/Tailcast">Repository</a>
-
-<h4>4 websites</h4>
-
-Few more static websites of mine, combined along with Tailcast into simple showcase application
-
-<a href="https://4-websites.vercel.app/">Live link</a> | <a href="https://github.com/matt765/4-websites">Repository</a>
 
 <h4>TypeScript Apps</h4>
 
@@ -42,6 +36,12 @@ Open source collection of small applications written in ReactJS and TypeScript.
 Open source base of front-end related interview questions.
 
 <a href="https://front-end-questions.vercel.app/">Live link</a> | <a href="https://github.com/matt765/front-end-questions">Repository</a>
+
+<h4>Static websites</h4>
+
+Few more static websites of mine, combined along with Tailcast into simple showcase application
+
+<a href="https://4-websites.vercel.app/">Live link</a> | <a href="https://github.com/matt765/4-websites">Repository</a>
 
 ## Older projects
 Websites and applications that still work but were not maintained for some time and need code refactoring.
