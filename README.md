@@ -9,19 +9,19 @@ Styling libraries I'm familiar with: Styled Components, Material UI, Chakra UI, 
 
 <h4>Spireflow</h4>
 
-Open source analytic dashboard that resembles real-world e-commerce platforms
+Open source and free e-commerce dashboard template written in NextJS and TypeScript
 
 <a href="https://spireflow.vercel.app">Live link</a> | <a href="https://github.com/matt765/spireflow">Repository</a>
 
-<h4>Daydash.app</h4>
+<h4>Mistyloop.com</h4>
 
-React application designed to be an alternative to default starting page in browser
+React application designed to be an alternative to default starting page in the browser
 
-<a href="https://daydash.app/">Live link</a> | <a href="https://github.com/matt765/daydash">Repository</a>
+<a href="https://mistyloop.com/">Live link</a> | <a href="https://github.com/matt765/daydash">Repository</a>
 
 <h4>Tailcast</h4>
 
-Dark themed website template built on AstroJS and Tailwind, designed for SaaS business.
+Dark themed website template built on AstroJS and Tailwind, designed for fictional SaaS startup
 
 <a href="https://tailcast.vercel.app/">Live link</a> | <a href="https://github.com/matt765/Tailcast">Repository</a>
 
