@@ -2,7 +2,7 @@
 <h1>Hi there, I'm Matthew </h2>
 <strong>Front-end developer</strong> from Poland,  currently working with React & TypeScript applications.   <br> <br>
 
-Tech stack: HTML, CSS, JavaScript, TypeScript, React, Redux, NextJS, Zustand, AstroJS, Strapi, GraphQL, Webflow, Storybook <br>
+Tech stack: HTML, CSS, JavaScript, TypeScript, React, NextJS, Zustand, AstroJS, Webflow, NodeJS, Express <br>
 Styling libraries I'm familiar with: Styled Components, Material UI, Chakra UI, Tailwind, SCSS
 
 ## Projects that might interest you 
@@ -21,7 +21,7 @@ React application designed to be an alternative to default starting page in the 
 
 <h4>Tailcast</h4>
 
-Dark themed website template built on AstroJS and Tailwind, designed for fictional SaaS startup
+Dark themed website template built on AstroJS and Tailwind, designed for a fictional SaaS startup
 
 <a href="https://tailcast.vercel.app/">Live link</a> | <a href="https://github.com/matt765/Tailcast">Repository</a>
 
@@ -44,7 +44,7 @@ Few more static websites of mine, combined along with Tailcast into simple showc
 <a href="https://4-websites.vercel.app/">Live link</a> | <a href="https://github.com/matt765/4-websites">Repository</a>
 
 ## Older projects
-Websites and applications that still work but were not maintained for some time and need code refactoring.
+Websites and applications may that still work but were not maintained for a long time and need code refactoring.
 
 ChatApp
 <a href="https://matt765.github.io/react-chat-app">Live link</a> | <a href="https://github.com/matt765/react-chat-app">Repository</a>
