@@ -44,7 +44,7 @@ Few more static websites of mine, combined along with Tailcast into simple showc
 <a href="https://4-websites.vercel.app/">Live link</a> | <a href="https://github.com/matt765/4-websites">Repository</a>
 
 ## Older projects
-Websites and applications may that still work but were not maintained for a long time and need code refactoring.
+Websites and applications that may still work but were not maintained for a long time and need code refactoring.
 
 ChatApp
 <a href="https://matt765.github.io/react-chat-app">Live link</a> | <a href="https://github.com/matt765/react-chat-app">Repository</a>
