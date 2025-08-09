@@ -1,5 +1,5 @@
 
-<h1>Hi there, I'm Matthew </h2>
+<h1>👋 Hi there, I'm Matthew </h2>
 <strong>Front-end developer</strong> from Poland,  currently working with React & TypeScript applications.   <br> <br>
 
 Tech stack: HTML, CSS, JavaScript, TypeScript, React, NextJS, Zustand, AstroJS, Webflow, NodeJS, Express <br>
